@@ -16,7 +16,3 @@ Curso **Engenharia de Software na Universidade Católica do Salvador (UCSal)** e
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4scimentoo&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4scimentoo&hide=Jupyter%20Notebook)
